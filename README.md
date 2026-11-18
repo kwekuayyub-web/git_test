@@ -1,2 +1,3 @@
 # git_test
-Git practice
+git practice
+Helle Odin!
