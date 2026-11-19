@@ -1,3 +1,3 @@
 hello git
-Hello everyone,am "Mohammed Kweku Ayyub" and 23 i have started a new skill as afullstack
-developer wish me all the best.
+Hello everyone am "Mohammed Kweku Ayyub" am 23 and i have started a new skill
+as a fullstack developer.
